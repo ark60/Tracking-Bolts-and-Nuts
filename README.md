@@ -29,7 +29,7 @@ This repository contains a highly configurable two-stage-tracker that adjusts to
 
 1. Clone the repository recursively:
 
-`git clone https://github.com/ark60/Stroma_1-Case-Study.git`
+`git clone https://github.com/ark60/Stroma-Case-Study.git`
 
 2. Make sure that you fulfill all the requirements: Python 3.8 or later with all [requirements.txt] To install, run:
 
