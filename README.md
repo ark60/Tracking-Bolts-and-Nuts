@@ -1,4 +1,4 @@
-# Tracking Bolts and Nuts (Stroma Case Study)
+# Tracking Bolts and Nuts
 
 
 
